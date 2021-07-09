@@ -9,7 +9,7 @@
 
 <!--**apurvchatterjee/apurvchatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=apurvchatterjee.apurvchatterjee&style=flat-square&color=0088cc
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=apurvchatterjee.apurvchatterjee&style=flat-square&color=0088cc)
 
 https://gpvc.arturio.dev/apurvchatterjee
 
