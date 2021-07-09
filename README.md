@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with redesigning my GitHub profile README.md
 - 💬 Ask me about Quality Assurance, Test Automation, Selenium, Rest-Assured, jUnit, TestNG, Automation Framework Development
-- 📫 How to reach me: `apurv dot chatterjee at outlook dot com`
+- 📫 How to reach me: `apurv.chatterjee@outlook.com`
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a lousy PC nerd
 
